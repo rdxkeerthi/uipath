@@ -1,14 +1,9 @@
 
-# UIPath RPA Project : Weather Data Automation
+# UIPath Project 3: Weather Data Automation
 
 In this UIPath RPA project, we aim to automate the process of fetching weather data, including temperature, humidity, wind speed, and precipitation, from a browser and importing it into an Excel file. This automation streamlines the manual task of gathering weather information, enhancing efficiency and accuracy.
 
 
-
-
-## Demo
-
-[Tutorial](#)
 
 
 ## Instruction
@@ -21,7 +16,7 @@ Open `Main.xaml` and run the project on Uipath
 
 Note : Make Sure you have MS Excel 2010 or above. 
     
-## Aim
+
 
 #### Implementing a script that interacts with external data sources (e.g., Excel, databases) during the automation process.
 
@@ -35,5 +30,3 @@ Note : Make Sure you have MS Excel 2010 or above.
 - Resource Optimization: With repetitive tasks automated, human resources can be allocated to more value-added activities, enhancing overall productivity.
 
 
-## Conclusion:
-Through this UIPath RPA project, we have successfully implemented an efficient and reliable solution for automating the retrieval and import of weather data into Excel. By harnessing the power of automation, organizations can streamline their data processing workflows, improve accuracy, and free up valuable human resources for higher-level tasks.
