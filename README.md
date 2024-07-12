@@ -25,6 +25,7 @@
 20. String Manipulations
 21. DataTable Manipulations
 22. Collection, Its Types and Manipulations
+23. [README.md 2](https://github.com/rdxkeerthi/uipath/blob/main/UiPath%203/Email%20Document%20Automation/README.md)
 ### Gallery
 ![Screenshot 2024-07-03 150939](https://github.com/rdxkeerthi/uipath/assets/147473120/a73d76a1-c83e-4227-965e-d48275259100)
 ![Screenshot 2024-07-03 151028](https://github.com/rdxkeerthi/uipath/assets/147473120/b29d9b29-b5cd-4397-96a8-9c179dd06b35)
